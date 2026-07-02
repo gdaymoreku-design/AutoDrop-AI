@@ -1,6 +1,20 @@
 # AutoDrop AI
 
-AI-powered dropshipping automation SaaS.
+## 🚀 Vision
+AutoDrop AI is an AI-powered platform that automates dropshipping from start to finish.
 
-## Goal
-Build an app that helps users automate their entire dropshipping business using AI.
+## MVP Features
+- AI Product Finder
+- AI Store Builder
+- AI Ad Generator
+- Order Management
+- Dashboard
+
+## Future Features
+- AI Customer Support
+- Multi-store Management
+- Advanced Analytics
+- Subscription Plans
+
+## Status
+🟢 Planning Stage
